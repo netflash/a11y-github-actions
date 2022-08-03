@@ -10,6 +10,12 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App />
+    <div id="header">
+      <h1>A huge header</h1>
+    </div>
+    <div id="content">
+      A main textarea
+    </div>
   </React.StrictMode>
 );
 
