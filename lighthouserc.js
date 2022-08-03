@@ -1,7 +1,7 @@
 module.exports = {
   ci: {
     upload: {
-      target: "lhci",
+      target: "temporary-public-storage",
     },
   },
 }
