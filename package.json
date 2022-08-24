@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^13.2.1",
     "@types/jest": "^27.0.1",
     "@types/jest-axe": "^3.5.3",
-    "@types/node": "^16.7.13",
+    "@types/node": "^18.7.11",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "jest-axe": "^6.0.0",
